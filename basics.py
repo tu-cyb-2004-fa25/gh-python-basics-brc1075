@@ -5,7 +5,7 @@
 # it infers it from the data we give it.
 
 # This is a comment line.. Put your name on the following line, starting with a #
-
+# Brit Collins
 
 # Integer
 age = 50
@@ -18,10 +18,10 @@ is_student = False
 
 
 # Now it is your turn, fill in these variables with different data (maybe about you, but it doesn't have to be)
-age = 
-name = 
-height = 
-is_student = 
+age = 20
+name = "Brit"
+height = 5.80
+is_student = True 
 
 # We can also do aritmetic in Python, with variables or actual numbers
 age_in_five_years = age + 5
@@ -33,6 +33,6 @@ is_old_enough_to_drive = age >= 16
 
 
 # Your turn.  Create a comparison statement 
-
+is_old_enough_to_rent_a_car = age >= 25
 
 #Finally, save this file, commit, and push to github
